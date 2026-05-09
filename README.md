@@ -1,11 +1,9 @@
 ### Hi Developers 👋
 
 
-
-I'm
-Full Stack Developer
-With a passion for problem-solving and a drive to help companies reach their goals, I am an ambitious full stack developer ready to take on any challenge and make an impact. My skills include creating innovative solutions using the latest technologies, developing user-friendly applications, and providing support throughout the entire software development life cycle. I am also eager to learn new technologies and techniques to stay ahead of the curve.
-I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql) 
+Data Analytics professional with hands-on experience in Power BI, SQL, Excel, and data visualization. Skilled in data quality
+assessment, ETL workflows, and building dashboards for enterprise clients. Strong Python and ML foundation with a research
+background at NTU Singapore.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Kunal1706/count.svg)
