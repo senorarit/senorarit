@@ -1,4 +1,4 @@
-### Hi Developers 👋
+
 
 
 Data Analytics professional with hands-on experience in Power BI, SQL, Excel, and data visualization. Skilled in data quality
